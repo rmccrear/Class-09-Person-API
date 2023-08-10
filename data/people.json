@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Robert",
+    "imgUrl": "https://avatars.githubusercontent.com/u/113715288?v=4",
+    "homeState": "Taiwan",
+    "favTea": "Green",
+    "favNum": 101,
+    "favCol": "red",
+    "favFood": "Bejing Duck",
+    "favGame": "Zelda",
+    "favWeather": "stormy"
+  },
+  {
+    "id": "3",
+    "name": "Bianca",
+    "homeState": "Florida",
+    "imgUrl": "https://avatars.githubusercontent.com/u/127991428?v=4",
+    "favTea": "Chai",
+    "favNum": 3,
+    "favCol": "green",
+    "favMusic": "neo soul"
+  },
+  {
+    "id": "21",
+    "name": "Justine",
+    "homeState": "Tennessee",
+    "imgUrl": "https://avatars.githubusercontent.com/u/125770927?v=4",
+    "favBook": "The Bluest Eye",
+    "favMusic": "80s"
+  },
+  {
+    "id": "4",
+    "name": "Ajamu",
+    "homeState": "Louisiana",
+    "imgUrl": "https://avatars.githubusercontent.com/u/127905337?v=4",
+    "favDay": "My BDay",
+    "favMusic": "Southern Soul"
+  },
+  {
+    "id": "5",
+    "name": "Gerard",
+    "homeState": "Louisiana",
+    "imgUrl": "https://avatars.githubusercontent.com/u/128838992?v=4",
+    "favGame": "Hollow Knight"
+  },
+
+  {
+    "id": "7",
+    "name": "Justin",
+    "homeState": "Tennessee",
+    "imgUrl": "https://avatars.githubusercontent.com/u/128552419?v=4",
+    "favCol": "red",
+    "favMusic": "country",
+    "favBook": "Goosebumps",
+    "favFood": "Pizza",
+    "favWeather": "sunny"
+  },
+  {
+    "id": "6",
+    "name": "Andrea",
+    "homeState": "Tennessee",
+    "imgUrl": "https://avatars.githubusercontent.com/u/129230727?v=4",
+    "favColor": "purple",
+    "favCar": "65 Chevy"
+  },
+  {
+    "id": "8",
+    "name": "Anya",
+    "homeState": "Mississippi",
+    "imgUrl": "https://avatars.githubusercontent.com/u/128553712?v=4",
+    "favFood": "Salmon Salad"
+  },
+  {
+    "name": "Brian",
+    "favCol": "black",
+    "id": "100"
+  }
+]
