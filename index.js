@@ -174,7 +174,9 @@ app.get('/favorite-book', (request, response) => {
 
 
 app.use((error, request, response, next) => {
-  response.status(500).send(error.message);
+  response.status(500).send({
+    "error": error.message
+  });
 });
 
 
